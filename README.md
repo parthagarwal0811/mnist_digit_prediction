@@ -175,20 +175,3 @@ On the MNIST test set:
 ## License
 
 This project is licensed under the MIT License — feel free to use, modify, and distribute.
-
-## Acknowledgments
-
-- **MNIST Dataset** — Yann LeCun et al., a foundational benchmark for digit recognition
-- **PyTorch & OpenCV** — Excellent open-source libraries for deep learning and computer vision
-
-## Contributing
-
-Found a bug or have a suggestion? Feel free to open an issue or submit a pull request.
-
-## Author
-
-**Parth Agarwal** — [GitHub Profile](https://github.com/parthagarwal0811)
-
----
-
-**Enjoy using MNIST Digit Prediction!** If you find it useful, consider giving it a star ⭐
